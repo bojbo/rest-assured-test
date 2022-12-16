@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="suite1">
+  <test name="Numbers">
+    <classes>
+      <class name="testassured.Numbers"></class>
+
+    </classes>
+  </test>
+
+  <test name="openJson">
+    <classes>
+      <class name="testassured.openJson"></class>
+    </classes>
+  </test>
+
+  <test name="sample">
+    <classes>
+      <class name="testassured.AppTest"></class>
+    </classes>
+  </test>
+</suite>

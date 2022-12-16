@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-15T20:39:48 CST" name="suite1" finished-at="2022-12-15T20:39:53 CST" duration-ms="5527">
+    <groups>
+    </groups>
+    <test started-at="2022-12-15T20:39:48 CST" name="Numbers" finished-at="2022-12-15T20:39:48 CST" duration-ms="8">
+    </test> <!-- Numbers -->
+    <test started-at="2022-12-15T20:39:51 CST" name="openJson" finished-at="2022-12-15T20:39:53 CST" duration-ms="2733">
+      <class name="testassured.openJson">
+        <test-method is-config="true" signature="gen()[pri:0, instance:testassured.openJson@436a4e4b]" started-at="2022-12-15T20:39:51 CST" name="gen" finished-at="2022-12-15T20:39:51 CST" duration-ms="529" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gen -->
+        <test-method signature="testGetMiniVideo()[pri:0, instance:testassured.openJson@436a4e4b]" started-at="2022-12-15T20:39:51 CST" name="testGetMiniVideo" finished-at="2022-12-15T20:39:52 CST" duration-ms="1363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetMiniVideo -->
+        <test-method signature="testLogin()[pri:0, instance:testassured.openJson@436a4e4b]" started-at="2022-12-15T20:39:52 CST" name="testLogin" finished-at="2022-12-15T20:39:53 CST" duration-ms="182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method signature="testRegister()[pri:0, instance:testassured.openJson@436a4e4b]" started-at="2022-12-15T20:39:53 CST" name="testRegister" finished-at="2022-12-15T20:39:53 CST" duration-ms="639" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegister -->
+      </class> <!-- testassured.openJson -->
+    </test> <!-- openJson -->
+    <test started-at="2022-12-15T20:39:53 CST" name="sample" finished-at="2022-12-15T20:39:53 CST" duration-ms="1">
+    </test> <!-- sample -->
+  </suite> <!-- suite1 -->
+</testng-results>
